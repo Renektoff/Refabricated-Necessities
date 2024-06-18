@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "renektoff.refabricated_necessities.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "server": [
+    "ServerDamageItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

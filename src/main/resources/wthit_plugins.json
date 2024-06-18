@@ -1,0 +1,5 @@
+{
+  "refabricated_necessities:plugin": {
+    "initializer": "renektoff.refabricated_necessities.integrations.Wthit.WthitPlugin"
+  }
+}

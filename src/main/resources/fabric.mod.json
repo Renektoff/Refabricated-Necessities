@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "refabricated_necessities",
+  "version": "${version}",
+  "name": "Refabricated Necessities",
+  "description": "A mod about porting useful Forge mod items that don't currently have a home in Fabric.",
+  "authors": [
+    "Renektoff"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/refabricated_necessities/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "renektoff.refabricated_necessities.RefabricatedNecessities"
+    ],
+    "client": [
+      "renektoff.refabricated_necessities.RefabricatedNecessitiesClient"
+    ],
+    "modmenu": [
+      "renektoff.refabricated_necessities.integrations.ModMenu.ModMenuEntrypoint"
+    ]
+  },
+  "mixins": [
+    "refabricated_necessities.mixins.json",
+    {
+      "config": "refabricated_necessities.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "minecraft": "~1.19.2",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

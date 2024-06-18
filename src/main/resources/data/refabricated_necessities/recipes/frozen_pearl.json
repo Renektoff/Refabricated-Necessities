@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "IEI",
+    " I "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "I": [
+      {
+        "item": "minecraft:ice"
+      },
+      {
+        "item": "minecraft:packed_ice"
+      }
+    ]
+  },
+  "result": {
+    "item": "refabricated_necessities:frozen_pearl"
+  }
+}

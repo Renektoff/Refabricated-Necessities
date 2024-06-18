@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " GB",
+    " IR",
+    "I  "
+  ],
+  "key": {
+    "R": {
+      "tag": "c:red_dyes"
+    },
+    "G": {
+      "tag": "c:green_dyes"
+    },
+    "B": {
+      "tag": "c:blue_dyes"
+    },
+    "I": {
+      "tag": "c:iron_ingots"
+    }
+  },
+  "result": {
+    "item": "refabricated_necessities:morph_tool"
+  }
+}

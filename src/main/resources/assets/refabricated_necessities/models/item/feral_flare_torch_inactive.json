@@ -1,0 +1,6 @@
+{
+  "parent": "item/torch",
+  "textures": {
+    "layer0": "refabricated_necessities:item/feral_flare_torch_unlit"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "bound": 0
+      },
+      "model": "refabricated_necessities:item/feral_flare_torch_inactive"
+    },
+    {
+      "predicate": {
+        "bound": 1
+      },
+      "model": "refabricated_necessities:item/feral_flare_torch_active"
+    }
+  ]
+}

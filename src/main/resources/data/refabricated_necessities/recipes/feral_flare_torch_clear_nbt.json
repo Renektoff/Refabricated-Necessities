@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refabricated_necessities:feral_flare_torch"
+    }
+  ],
+  "result": {
+    "item": "refabricated_necessities:feral_flare_torch"
+  }
+}

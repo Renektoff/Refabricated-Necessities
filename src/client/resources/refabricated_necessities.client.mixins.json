@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "renektoff.refabricated_necessities.mixins.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "ClientDropItemMixin",
+    "ClientHotbarScrollMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

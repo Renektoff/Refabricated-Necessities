@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "GCG",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "tag": "c:gold_ingots"
+    },
+    "C": [
+      {
+        "item" : "minecraft:glowstone_dust"
+      },
+      {
+        "tag": "c:glowstone_dusts"
+      }
+    ],
+    "G": {
+      "tag": "c:glass_blocks"
+    }
+  },
+  "result": {
+    "item": "refabricated_necessities:feral_flare_lantern"
+  }
+}

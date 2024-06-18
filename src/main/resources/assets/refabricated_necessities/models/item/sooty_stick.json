@@ -1,0 +1,6 @@
+{
+  "parent": "item/stick",
+  "textures": {
+    "layer0": "refabricated_necessities:item/sooty_stick"
+  }
+}
