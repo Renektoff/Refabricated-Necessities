@@ -15,6 +15,7 @@
   "item.refabricated_necessities.feral_flare_torch.messages.lantern_not_loaded" : "Bound lantern isn't currently loaded.",
   "item.refabricated_necessities.feral_flare_torch.messages.bound_object_not_lantern" : "Object at previously bound coordinates is no longer a lantern. It was most likely removed. Clearing association.",
   "item.refabricated_necessities.feral_flare_torch.messages.reached_light_limit" : "Bound lantern has reached its light count limit.",
+  "item.refabricated_necessities.sooty_stick" : "Sooty Stick",
   "item.refabricated_necessities.morph_tool" : "Morphing Tool",
   "item.refabricated_necessities.morph_tool.tooltip.no_items" : "No items inside Morphing Tool. Craft with allowed item to add to tool. You can configure allowed items in the config file.",
   "item.refabricated_necessities.morph_tool.tooltip.items_in_tool" : "Items inside tool:",
